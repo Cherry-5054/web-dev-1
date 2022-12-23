@@ -1,0 +1,30 @@
+body{
+  background-color:  #E3FDFD;
+}
+
+hr{
+  background-color:#E3FDFD;
+  border-style: none;
+  border-top-style:dotted;
+  border-color:#71C9CE;
+  border-width: 5px;
+  width: 7%;
+}
+h1{
+  color: #18978F;
+  text-shadow: 4px 4px 8px #18978F ;
+}
+h3{
+  color: #18978F;
+}
+img:hover{
+    background-color: #78DEC7;
+}
+.sub{
+  color: #78DEC7;
+  text-shadow: none;
+}
+.inline-block{
+  display:inline-block;
+  width:200px;
+}
